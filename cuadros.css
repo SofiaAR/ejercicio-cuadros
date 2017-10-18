@@ -1,0 +1,46 @@
+.cuadrado1{ /*cuadrado contenedor 1*/
+  width: 400px; /*ancho*/
+  height:400px; /*alto*/
+  position:absolute;/*es independiente*/
+  background: #20B2AA; /*siempre poner para ver la figura q estas haciendo*/
+}
+.cuadrado-dentro1{ /*cuadrado interior*/
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  background-color: #00FF00;
+  left:100px;
+  top:100px;
+}
+.cuadrado-dentro2{
+  width:80px;
+ height:80px;
+ position: absolute;
+ background: #7B68EE;
+ left:100px;
+ top:100px;
+}
+.cuadrado2{
+  width: 400px;
+    height:400px;
+    position:absolute;
+    background: #B8860B;
+    top:450px
+
+}
+.cuadrado-dentro01{
+  width: 200px;
+ height: 200px;
+ position: absolute;
+ background-color:#006400;
+ left:100px;
+ top:550px;
+}
+.cuadrado-dentro02{
+  width:100px;
+ height:100px;
+ position: absolute;
+ background: #7B68EE;
+ left:1px;
+ top:450px;
+}
